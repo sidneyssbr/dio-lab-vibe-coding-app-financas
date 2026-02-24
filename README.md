@@ -4,7 +4,7 @@
 # 💸 App de Finanças Pessoais — Sidney Souza  
 ### Construído com Vibe Coding e IA Conversacional
 
-Este repositório apresenta o Desafio de um Projeto da DIO desenvolvimento um **App de Finanças Pessoais Conversacional**, criado a partir de um **PRD refinado com auxílio do Copilot** e implementado utilizando a plataforma **Lovable**.
+Este repositório apresenta um Desafio de Projeto da DIO voltado ao desenvolvimento de um **App de Finanças Pessoais Conversacional**, criado a partir de um **PRD refinado com o auxílio do Copilot** e implementado utilizando a plataforma **Lovable**.
 
 
 ## 📌 Product Requirements Document (PRD)
